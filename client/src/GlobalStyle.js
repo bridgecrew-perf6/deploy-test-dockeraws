@@ -10,6 +10,7 @@ export default createGlobalStyle`
 
     body {
         font-family: sans-serif;
+        background-color: black;
     }
 
     html, body, #root {
